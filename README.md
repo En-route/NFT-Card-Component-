@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [frontendmentor.io](https://www.frontendmentor.io/profile/En-route)
-- Live Site URL: [NFT-Card-Component](https://github.com/En-route/NFT-Card-Component-.git)
+- Live Site URL: [NFT-Card-Component](https://en-route.github.io/NFT-Card-Component-/)
 
 ## My process
 
