@@ -35,37 +35,31 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [frontendmentor.io](https://www.frontendmentor.io/profile/En-route)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 
 ### Built with
 
-- Semantic HTML5 markup
+- HTML5 markup
 - Flexbox
 - CSS Grid
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
-### What I learned
-
-More abou sgv, better use of margins and padding. I also got touse flexbox.
-
 ### Continued development
 
-I should learn moreon CSS psudo selectors.
+I should learn more on CSS psudo selectors.
 
 ### Useful resources
 
-- [Complte guide t ocentering in css](https://www.csstricks.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [Complte guide to ocentering in css](https://www.csstricks.com) 
 
 ## Author
 
 - Website - [Katleho Makhale]()
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Twitter - [@MakhaleKatleho](https://twitter.com/MakhaleKatleho)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+
 
 
