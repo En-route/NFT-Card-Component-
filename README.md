@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [frontendmentor.io](https://www.frontendmentor.io/profile/En-route)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [NFT-Card-Component](https://github.com/En-route/NFT-Card-Component-.git)
 
 ## My process
 
@@ -52,7 +52,7 @@ I should learn more on CSS psudo selectors.
 
 ### Useful resources
 
-- [Complte guide to ocentering in css](https://www.csstricks.com) 
+- [Complte guide to centering in css](https://www.csstricks.com) 
 
 ## Author
 
